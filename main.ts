@@ -1,5 +1,5 @@
-controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
-    game.setGameOverMessage(false, "GAME OVER!")
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+    game.setGameOverMessage(true, "yaaaaaaaaaaaaaaaaaaaaaaay")
 })
 scene.setBackgroundImage(img`
     2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
